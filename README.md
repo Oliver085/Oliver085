@@ -122,7 +122,6 @@ Exercícios e desafios resolvidos durante o curso de Python 3 do Gustavo Guanaba
 
 </div>
 
-> ⚙️ Pra essa cobrinha animada aparecer de verdade, precisa configurar uma **GitHub Action** — só me avisar que eu te explico o passo a passo!
 
 ---
 
