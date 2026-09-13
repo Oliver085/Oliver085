@@ -102,17 +102,6 @@ Exercícios e desafios resolvidos durante o curso de Python 3 do Gustavo Guanaba
 
 ---
 
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Oliver085&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
 <!-- ===================== SNAKE ANIMATION ===================== -->
 ## 🐍 Minhas contribuições (modo cobrinha!)
 
