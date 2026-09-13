@@ -17,7 +17,7 @@
 
 <img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
 
-- 🎓 Estudante de **Estácio**
+- 🎓 Estudante de **Gestão de Tecnologia da Informação**
 - ⚓ Atualmente na **Marinha do Brasil**
 - 💻 Estudando **Python** e desenvolvimento **Backend**
 - ☁️ Explorando **AWS** e me aventurando em **IA Generativa**
