@@ -4,7 +4,7 @@
 <img width="100%" src="./pixel-banner.svg"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=3776AB&center=true&vCenter=true&width=650&height=60&lines=Aprendendo+Python+todos+os+dias+%F0%9F%90%8D;Explorando+AWS+e+IA+%E2%98%81%EF%B8%8F%F0%9F%A4%96;Em+busca+da+minha+primeira+vaga+%F0%9F%9A%80;Seja+bem-vindo(a)+ao+meu+perfil!+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=3776AB&center=true&vCenter=true&width=650&height=60&lines=Aprendendo+Python+todos+os+dias;Explorando+AWS+e+IA+Generativa;Em+busca+da+minha+primeira+vaga;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Oliver085&color=FFD43B&style=for-the-badge&label=VISITAS%20AO%20PERFIL)
 
