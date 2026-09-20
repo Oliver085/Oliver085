@@ -86,22 +86,6 @@ Exercícios e desafios resolvidos durante o curso de Python 3 do Gustavo Guanaba
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 Minhas estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Oliver085&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=FFD43B&icon_color=3776AB&text_color=FFFFFF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver085&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&title_color=FFD43B&text_color=FFFFFF"/>
-
-<img src="https://streak-stats.demolab.com?user=Oliver085&theme=default&hide_border=true&background=00000000&ring=FFD43B&fire=FF9900&currStreakLabel=3776AB"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oliver085&theme=react&bg_color=00000000&color=FFD43B&line=3776AB&point=FF9900&hide_border=true"/>
-
-</div>
-
----
-
 <!-- ===================== SNAKE ANIMATION ===================== -->
 ## 🐍 Minhas contribuições (modo cobrinha!)
 
