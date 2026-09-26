@@ -59,21 +59,21 @@
 <tr>
 <td width="100%" align="center">
 
-### 🐍 Python - Curso em Vídeo
+### 🍕 Lappetitosa — Pizzaria Artesanal
 
-Exercícios e desafios resolvidos durante o curso de Python 3 do Gustavo Guanabara, praticando lógica de programação do zero. 💡
+Site responsivo para uma pizzaria de Natal, com foco em SEO local, identidade visual própria e facilidade para fazer pedidos.
 
-`Python`
+**Destaques:** animações ao rolar a página, efeitos 3D nos cards, endereços das unidades e acesso a pedidos pelo WhatsApp, MenuDino e iFood.
 
-[🔗 Ver repositório](https://github.com/Oliver085/Python-CursoEmVideo)
+`HTML5` `CSS3` `JavaScript` `SEO Local`
+
+[🔗 Ver repositório](https://github.com/Oliver085/Lappetitosa-Pizzaria)
 
 </td>
 </tr>
 </table>
 
 </div>
-
----
 
 <!-- ===================== OBJETIVOS ===================== -->
 ## 🎯 Meus objetivos atuais
@@ -118,3 +118,4 @@ Exercícios e desafios resolvidos durante o curso de Python 3 do Gustavo Guanaba
 💛💙 Obrigado por visitar meu perfil! Bons códigos! 🐍✨
 
 </div>
+`
