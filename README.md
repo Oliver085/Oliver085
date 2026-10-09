@@ -4,7 +4,7 @@
 <img width="100%" src="./pixel-banner.svg"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=3776AB&center=true&vCenter=true&width=650&height=60&lines=Aprendendo+Python+todos+os+dias;Explorando+AWS+e+IA+Generativa;Em+busca+da+minha+primeira+vaga;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=3776AB&center=true&vCenter=true&width=650&height=60&lines=Aprendendo+Python+todos+os+dias;Criando+APIs+com+FastAPI;Em+busca+da+minha+primeira+vaga;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Oliver085&color=FFD43B&style=for-the-badge&label=VISITAS%20AO%20PERFIL)
 
@@ -17,10 +17,11 @@
 
 <img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
 
-- 🎓 Estudante de **Gestão de Tecnologia da Informação**
+- 🎓 Estudante de **Estácio**
 - ⚓ Atualmente na **Marinha do Brasil**
 - 💻 Estudando **Python** e desenvolvimento **Backend**
-- ☁️ Explorando **AWS** e me aventurando em **IA Generativa**
+- 🔌 Criando **APIs REST** com **FastAPI**
+- 🤖 Me aventurando em **IA Generativa**
 - 🎯 Em busca da minha **primeira oportunidade como programador**
 - 📍 Natal, RN - Brasil
 - ⚡ Fun fact: cada linha de código é um passo mais perto do objetivo!
@@ -34,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,git,github,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,html,css,git,github&theme=dark" />
 
 <br><br>
 
@@ -43,7 +44,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![IA Generativa](https://img.shields.io/badge/IA_Generativa-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
@@ -59,15 +62,13 @@
 <tr>
 <td width="100%" align="center">
 
-### 🍕 Lappetitosa — Pizzaria Artesanal
+### 🐍 Python - Curso em Vídeo
 
-Site responsivo para uma pizzaria de Natal, com foco em SEO local, identidade visual própria e facilidade para fazer pedidos.
+Exercícios e desafios resolvidos durante o curso de Python 3 do Gustavo Guanabara, praticando lógica de programação do zero. 💡
 
-**Destaques:** animações ao rolar a página, efeitos 3D nos cards, endereços das unidades e acesso a pedidos pelo WhatsApp, MenuDino e iFood.
+`Python`
 
-`HTML5` `CSS3` `JavaScript` `SEO Local`
-
-[🔗 Ver repositório](https://github.com/Oliver085/Lappetitosa-Pizzaria)
+[🔗 Ver repositório](https://github.com/Oliver085/Python-CursoEmVideo)
 
 </td>
 </tr>
@@ -75,14 +76,32 @@ Site responsivo para uma pizzaria de Natal, com foco em SEO local, identidade vi
 
 </div>
 
+---
+
 <!-- ===================== OBJETIVOS ===================== -->
 ## 🎯 Meus objetivos atuais
 
 - 🐍 Praticar mais lógica de programação em Python todo dia
 - 🌱 Fazer commits com frequência no GitHub
-- ☁️ Aprender AWS na prática, com projetos reais
+- 🔌 Criar projetos reais com FastAPI e SQL
 - 🤖 Explorar IA Generativa aplicada ao Backend
 - 💼 Conquistar minha primeira oportunidade como programador
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 Minhas estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Oliver085&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=FFD43B&icon_color=3776AB&text_color=FFFFFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver085&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000&title_color=FFD43B&text_color=FFFFFF"/>
+
+<img src="https://streak-stats.demolab.com?user=Oliver085&theme=default&hide_border=true&background=00000000&ring=FFD43B&fire=FF9900&currStreakLabel=3776AB"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oliver085&theme=react&bg_color=00000000&color=FFD43B&line=3776AB&point=FF9900&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -95,6 +114,7 @@ Site responsivo para uma pizzaria de Natal, com foco em SEO local, identidade vi
 
 </div>
 
+> ⚙️ Pra essa cobrinha animada aparecer de verdade, precisa configurar uma **GitHub Action** — só me avisar que eu te explico o passo a passo!
 
 ---
 
@@ -118,4 +138,3 @@ Site responsivo para uma pizzaria de Natal, com foco em SEO local, identidade vi
 💛💙 Obrigado por visitar meu perfil! Bons códigos! 🐍✨
 
 </div>
-`
